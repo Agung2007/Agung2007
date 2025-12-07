@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Gambar Antrean](img.png)
+![Gambar Antrean](image.png)
 
 
 <!--
