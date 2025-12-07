@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Gambar Antrean](img.png)
+
 
 <!--
 **Agung2007/Agung2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
