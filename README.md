@@ -46,6 +46,17 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 
+#### 🚀 Projects I’ve Worked On  
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Contribution Graph Visualizer** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | A custom GitHub contribution visualizer with dynamic rendering and profile branding animations. |
+| **Personal Portfolio Platform** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | A modern, fully responsive platform built with Next.js, featuring SEO optimization and reusable UI components. |
+| **Core REST API Service** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | Production-ready REST API using Laravel with authentication, authorization, and clean architecture principles. |
+| **Inventory Management System** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | A scalable inventory management system with relational data models and CRUD modules. |
+| **Real-Time Chat Application** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white) | A real-time communication service using Node.js and WebSocket technology with stable message delivery. |
+
+
 
 
 #### GitHub Stats:
