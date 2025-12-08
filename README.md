@@ -6,6 +6,9 @@
 #### Framework And Library
 [![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,react)](https://skillicons.dev)
 
+#### Tools
+[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab,figma)](https://skillicons.dev)
+
 #### Database
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
