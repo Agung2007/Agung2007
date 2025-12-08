@@ -1,5 +1,21 @@
 
 ![Gambar Antrean](baner.png)
+
+<div align="center" style="max-width: 700px; margin: auto; line-height: 1.6;">
+
+<h2>About Me</h2>
+
+<p style="font-size: 16px;">
+I'm a Frontend Web Developer who focuses on building modern, clean, and user-friendly web interfaces.
+</p>
+
+<p style="font-size: 16px;">
+I enjoy turning UI/UX designs into interactive and responsive web pages that look great on both mobile and desktop devices.
+</p>
+
+</div>
+
+
 #### Programming Language
 [![My Skills](https://skillicons.dev/icons?i=css,php,javascript,java,go&perline=3)](https://skillicons.dev)
 
@@ -33,19 +49,3 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Agung2007/Agung2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
