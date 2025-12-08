@@ -1,10 +1,12 @@
-
-![Gambar Antrean](baner.png)
-
 <p align="center">
   <img src="gif.gif"
        style="max-width: 100%; height: auto;" />
 </p>
+
+
+![Gambar Antrean](baner.png)
+
+
 
 <div align="center" style="max-width: 700px; margin: auto; line-height: 1.6;">
 
@@ -17,6 +19,10 @@ I'm a Frontend Web Developer who focuses on building modern, clean, and user-fri
 <p style="font-size: 16px;">
 I enjoy turning UI/UX designs into interactive and responsive web pages that look great on both mobile and desktop devices.
 </p>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagungggggggg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wannabeeyours22) 
+
 
 </div>
 
