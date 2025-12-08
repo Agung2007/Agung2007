@@ -2,7 +2,6 @@
 ![Gambar Antrean](baner.png)
 
 
-
 <div align="center" style="max-width: 700px; margin: auto; line-height: 1.6;">
 
 <h2>About Me</h2>
