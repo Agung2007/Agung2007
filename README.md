@@ -1,10 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <p align="center">
+  <img src="gif.gif" width="80%">
+</p>
 
-<div align="center">
-  <img src="gif.gif" width="300" />
-</div>
 
 
 
