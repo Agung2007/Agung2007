@@ -1,4 +1,7 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
 <p align="center">
+
   <img src="gif.gif"
        style="max-width: 100%; height: auto;" />
 </p>
@@ -57,6 +60,12 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 <img src="https://raw.githubusercontent.com/Agung2007/Agung2007/output/snake.svg" alt="Snake animation" />
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agung2007/Agung2007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agung2007/Agung2007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agung2007/Agung2007/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
