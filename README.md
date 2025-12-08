@@ -1,6 +1,10 @@
 
 ![Gambar Antrean](baner.png)
 
+<p align="center">
+  <img src="gif.gif"
+       style="max-width: 100%; height: auto;" />
+</p>
 
 <div align="center" style="max-width: 700px; margin: auto; line-height: 1.6;">
 
