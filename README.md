@@ -46,6 +46,13 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+
+<img src="[https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)" />
+
+
+
+
 #### 🚀 Projects I’ve Worked On  
 
 | Project | Tech Stack | Description |
