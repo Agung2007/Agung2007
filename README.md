@@ -85,7 +85,7 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 
 <div align="center">
 
-<img src="PinDown.io_@irving00idbb_1765256720.gif" width="90" alt="GitHub Logo">
+<img src="PinDown.io_@irving00idbb_1765256720.gif" width="200" alt="GitHub Logo">
 
 <h2> Thank You for Visiting My GitHub! </h2>
 
