@@ -87,13 +87,13 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="90" alt="GitHub Logo">
 
-<h2>🌟 Thank You for Visiting My GitHub! 🌟</h2>
+<h2> Thank You for Visiting My GitHub! </h2>
 
 <p style="max-width: 500px; font-size: 16px;">
   I'm really glad you're here!  
   Feel free to browse my repositories, explore my projects,  
   and see what I've been working on.  
-  Your visit means a lot — thank you! ✨
+  Your visit means a lot — thank you! 
 </p>
 
 </div>
