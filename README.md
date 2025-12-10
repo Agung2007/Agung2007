@@ -31,7 +31,7 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 
 
 #### Programming Language
-[![My Skills](https://skillicons.dev/icons?i=css,php,javascript,java,go&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,php,javascript,java,c,go&perline=3)](https://skillicons.dev)
 
 #### Framework And Library
 [![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,react)](https://skillicons.dev)
