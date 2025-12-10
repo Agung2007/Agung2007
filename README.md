@@ -77,8 +77,9 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 #### Favorit Song
 <div align="right">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" />
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" style="margin-left: 10px;" />
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" />
 </div>
+
 
 
 #### Play Games with me
