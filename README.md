@@ -74,6 +74,13 @@ I enjoy turning UI/UX designs into interactive and responsive web pages that loo
 ---
 [![](https://visitcount.itsvg.in/api?id=Agung2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
+#### Favorit Song
+<div align="right">
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" />
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" style="margin-left: 10px;" />
+</div>
+
+
 #### Play Games with me
 <img src="https://raw.githubusercontent.com/Agung2007/Agung2007/output/snake.svg" alt="Snake animation" />
 
